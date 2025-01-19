@@ -6,7 +6,7 @@ Language statistics in repositories:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satana6699&theme=solarized_dark)
 
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 **Satana6699/Satana6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
