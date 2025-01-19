@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/questions_questions" target="_blank">Misha</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Automated Technologies and Systems. I currently live in Belarus.</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Satana6699/Satana6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
