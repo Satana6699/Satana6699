@@ -3,6 +3,7 @@
 <h3 align="center">Student of the Faculty of Automated Technologies and Systems. I currently live in Belarus.</h3>
 
 Language statistics in repositories:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satana6699&theme=solarized_dark)
 
 <!--
