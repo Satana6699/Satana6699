@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/questions_questions" target="_blank">Misha</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Automated Technologies and Systems. I currently live in Belarus.</h3>
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Архангел)
+[![codewars](https://www.codewars.com/users/Архангел/badges/small)](https://www.codewars.com/users/Архангел)
 Language statistics in repositories:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satana6699&theme=solarized_dark)
