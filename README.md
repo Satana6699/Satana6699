@@ -2,9 +2,11 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/questions_questions" target="_blank">Misha</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Automated Technologies and Systems. I currently live in Belarus.</h3>
-<!--Number of solved tasks on codewars:
+<!--
+Number of solved tasks on codewars:
 
-[![codewars](https://www.codewars.com/users/Satana6699/badges/small)](https://www.codewars.com/users/username)-->
+[![codewars](https://www.codewars.com/users/Satana6699/badges/small)](https://www.codewars.com/users/username)
+-->
 
 Language statistics in repositories:
 
